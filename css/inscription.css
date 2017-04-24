@@ -17,6 +17,35 @@ html, body {
         height: 20% !important;
     }
 
+    #logoNav {
+    width: 18em !important;
+    margin: auto !important;
+}
+
+    .navMenu {
+    text-align: center !important;
+    padding: 10% !important;
+    font-size: 6vw !important;
+}
+
+    .social {
+    width: 8em !important;
+    height: 8em !important;
+    transition: all 0.5s !important;
+    margin: auto !important;
+    border-radius: 70px !important; 
+}
+
+    .tel:hover {
+    width: 20em !important;
+
+}
+
+    .tel:hover #num {
+    font-size: 28px !important;
+}
+
+
 }
 
 @media only screen and (min-device-width: 610px) and (max-device-width: 1024px) {
@@ -63,6 +92,10 @@ html, body {
     #copyright {
         font-size: 2vw !important;
     }
+
+}
+
+@media screen and (max-width:1024px) {
 
 }
 
