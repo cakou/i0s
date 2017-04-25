@@ -93,7 +93,30 @@ html, body {
         font-size: 2vw !important;
     }
 
+        label {
+    font-size: 13px !important;
+    }
+
+    .question {
+    font-weight: bolder;
+    font-size: 1.5vw !important;
 }
+
+    .ques {
+    margin-top: 10px !important;
+    height: 22px !important;
+    width: 22px !important;
+}
+
+#titre {
+    letter-spacing: 0.4vw !important;
+    font-size: 5vw !important;
+}
+
+
+}
+
+
 
 @media screen and (max-width:1024px) {
 
