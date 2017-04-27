@@ -45,7 +45,13 @@ html, body {
     font-size: 28px !important;
 }
 
+.contenu {
+    flex-direction: column; 
+}
+.colonne {
+        width: 90% !important;
 
+}
 
 
 }
@@ -55,7 +61,10 @@ html, body {
     #cover {
         height: 35% !important;
     }
+.colonne {
+        width: 90% !important;
 
+}
    
 }
 
@@ -118,6 +127,15 @@ html, body {
 
  #fond {
     top: 0 !important;
+}
+
+.contenu {
+    flex-direction: column; 
+}
+
+.colonne {
+        width: 90% !important;
+
 }
 
 }
